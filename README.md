@@ -1,0 +1,1 @@
+# IPPD-OpenMP-UFPel-2020
